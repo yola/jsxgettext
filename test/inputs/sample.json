@@ -1,0 +1,9 @@
+{
+  "flowers": [
+    {"name": "roses", "description": "are red"},
+    {"name": "violets", "description": "are blue"}
+  ],
+  "bugs": [
+    {"name": "bees", "description": "buzz"}
+  ]
+}
