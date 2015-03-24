@@ -16,7 +16,6 @@
     "Justin van der Merwe (https://github.com/justinvdm)",
     "Andris Reinman <andris.reinman@gmail.com> (http://www.andrisreinman.com)",
     "Michael Weibel (https://github.com/mweibel)",
-
     "Yasu <mahata777@gmail.com> (https://github.com/mahata)",
     "Marcus (https://github.com/mphasize)"
   ],
@@ -41,16 +40,16 @@
   "preferGlobal": true,
   "dependencies": {
     "acorn": "^0.11.0",
-    "gettext-parser": "^1.1.0",
     "commander": "2.5.0",
+    "escape-string-regexp": "1.0.1",
+    "gettext-parser": "^1.1.0",
+    "gulp-static-i18n": "0.0.5",
     "jade": "0.30.0",
-    "escape-string-regexp": "1.0.1"
+    "lodash": "^3.5.0"
   },
   "devDependencies": {
-    "gulp-static-i18n": "0.0.4",
     "i18n-abide": "0.0.17",
     "jshint": "2.5.5",
-    "lodash": "^3.5.0",
     "test": "*"
   },
   "scripts": {
