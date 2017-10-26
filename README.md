@@ -41,17 +41,16 @@ Or from source:
   
     Options:
   
-    -V, --version                   output the version number
-    -o, --output <file>             write output to specified <file>
-    -p, --output-dir <path>         output files will be placed in directory <path>
-    -k, --keyword [keywords]        additional keywords to be looked for
-    -j, --join-existing             join messages with existing file
-    -L, --language [lang]           use the specified language (javascript, ejs, jinja, handlebars, jade, json, swig) [javascript]
-    -s, --sanity                    sanity check during the extraction
-    --project-id-version [version]  This is the project name and version of the generated package/catalog.
-    --report-bugs-to [bug address]  An email address or URL where you can report bugs in the untranslated strings.
-    -c, --add-comments [tag]        place comment blocks starting with TAG and preceding keyword lines in output file (default: "L10n:").
-    --debug                         Print each filename being prased.
-    --keys [keys]                   JSON keys (comma separated) to use when extracting messages.
-    --ignore-keys [keys]            JSON keys to exclude when extracting messages.
-    -h, --help                      output usage information
+      -h, --help                      output usage information
+      -V, --version                   output the version number
+      -o, --output <file>             write output to specified <file>
+      -p, --output-dir <path>         output files will be placed in directory <path>
+      -k, --keyword [keywords]        additional keywords to be looked for
+      -j, --join-existing             join messages with existing file
+      -L, --language [lang]           use the specified language (javascript, ejs, jinja, handlebars, jade, swig) [javascript]
+      -s, --sanity                    sanity check during the extraction
+      --project-id-version [version]  This is the project name and version of the generated package/catalog.
+      --report-bugs-to [bug address]  An email address or URL where you can report bugs in the untranslated strings.
+      -c, --add-comments [tag]        place comment blocks starting with TAG and preceding keyword lines in output file (default: "L10n:").
+      --keys [keys]                   JSON keys (comma separated) to use when extracting messages.
+      --ignore-keys [keys]            JSON keys to exclude when extracting messages.
