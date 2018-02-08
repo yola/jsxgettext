@@ -23,7 +23,7 @@
     "Yasu <mahata777@gmail.com> (https://github.com/mahata)",
     "Marcus (https://github.com/mphasize)"
   ],
-  "name": "jsxgettext",
+  "name": "@yola/jsxgettext",
   "version": "0.9.0-yola1",
   "license": "MPL-2.0",
   "description": "Extracts gettext strings from JavaScript, EJS, Jade, Jinja and Handlebars files.",
