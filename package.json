@@ -43,12 +43,13 @@
   "bin": "lib/cli.js",
   "preferGlobal": true,
   "engineStrict": true,
-    "engines": {
-      "node": ">= 4.0.0"
+  "engines": {
+    "node": ">= 4.0.0"
   },
   "dependencies": {
-    "acorn-jsx": "^3.0.0",
-    "acorn": "^3.0.0",
+    "acorn": "^7.1.0",
+    "acorn-jsx": "^5.1.0",
+    "acorn-walk": "^7.0.0",
     "commander": "^2.9.0",
     "escape-string-regexp": "^1.0.4",
     "gettext-parser": "^1.1.2",
