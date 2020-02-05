@@ -2,6 +2,13 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
+## 0.9.0-yola2
+
+* Update `acorn` & Fix `JSXText` visitor [#9][]
+
+[#9]: https://github.com/yola/jsxgettext/pull/9
+
+
 ## 0.9.0-yola1
 
 * Bump gulp-static-i18n allowing dotted json keys to be translated [#6][]
