@@ -2,6 +2,12 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
+## 0.9.1-yola2
+
+* Remove `lodash` from library
+
+[#12]: https://github.com/yola/jsxgettext/pull/12
+
 ## 0.9.0-yola2
 
 * Update `acorn` & Fix `JSXText` visitor [#9][]
