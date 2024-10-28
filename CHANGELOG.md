@@ -6,7 +6,7 @@
 
 * Replaced `jade` with `pug` in dependencies in package.json(since the `jade` library changed its name to `pug`)
 
-[#12]: https://github.com/yola/jsxgettext/pull/12
+[#13]: https://github.com/yola/jsxgettext/pull/13
 
 ## 0.9.1-yola1
 
