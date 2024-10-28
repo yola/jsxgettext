@@ -2,6 +2,12 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
+## 0.9.2-yola1
+
+* Replaced `jade` with `pug` in dependencies in package.json(since the `jade` library changed its name to `pug`)
+
+[#12]: https://github.com/yola/jsxgettext/pull/12
+
 ## 0.9.1-yola1
 
 * Remove `lodash` from library
