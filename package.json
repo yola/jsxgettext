@@ -59,7 +59,6 @@
   "devDependencies": {
     "i18n-abide": "0.0.17",
     "jshint": "2.5.5",
-    "lodash": "^3.5.0",
     "test": "*"
   },
   "scripts": {
