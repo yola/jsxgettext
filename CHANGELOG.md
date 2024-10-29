@@ -2,7 +2,7 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
-## 0.9.3-yola1
+## 1.0.0-yola1
 
 * Remove `jade` from library
 
