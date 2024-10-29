@@ -24,7 +24,7 @@
     "Marcus (https://github.com/mphasize)"
   ],
   "name": "@yola/jsxgettext",
-  "version": "0.9.1-yola1",
+  "version": "0.9.2-yola1",
   "license": "MPL-2.0",
   "description": "Extracts gettext strings from JavaScript, EJS, Jade, Jinja and Handlebars files.",
   "keywords": [
@@ -59,7 +59,6 @@
   "devDependencies": {
     "i18n-abide": "0.0.17",
     "jshint": "2.5.5",
-    "lodash": "^3.5.0",
     "test": "*"
   },
   "scripts": {
