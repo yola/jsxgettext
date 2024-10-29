@@ -2,6 +2,10 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
+## 0.9.3-yola1
+
+* Remove `jade` from library
+
 ## 0.9.2-yola1
 
 * Remove `lodash` from devDependencies

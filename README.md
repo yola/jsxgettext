@@ -1,6 +1,6 @@
 # jsxgettext [![Build Status](https://travis-ci.org/zaach/jsxgettext.png)](https://travis-ci.org/zaach/jsxgettext) [![NPM version](https://badge.fury.io/js/jsxgettext.png)](http://badge.fury.io/js/jsxgettext)
 
-A node module with a CLI that extracts gettext strings from JavaScript, EJS, Jade, Jinja, Swig and Handlebars files. Uses a real parser, [acorn](https://github.com/marijnh/acorn), for JavaScript files and recognizes the following uses:
+A node module with a CLI that extracts gettext strings from JavaScript, EJS, Jinja, Swig and Handlebars files. Uses a real parser, [acorn](https://github.com/marijnh/acorn), for JavaScript files and recognizes the following uses:
 
 ```javascript
 gettext("Hello world!");
@@ -47,7 +47,7 @@ Or from source:
       -p, --output-dir <path>         output files will be placed in directory <path>
       -k, --keyword [keywords]        additional keywords to be looked for
       -j, --join-existing             join messages with existing file
-      -L, --language [lang]           use the specified language (javascript, ejs, jinja, handlebars, jade, swig) [javascript]
+      -L, --language [lang]           use the specified language (javascript, ejs, jinja, handlebars, swig) [javascript]
       -s, --sanity                    sanity check during the extraction
       --project-id-version [version]  This is the project name and version of the generated package/catalog.
       --report-bugs-to [bug address]  An email address or URL where you can report bugs in the untranslated strings.
