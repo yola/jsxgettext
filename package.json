@@ -53,7 +53,7 @@
     "commander": "^2.9.0",
     "escape-string-regexp": "^1.0.4",
     "gettext-parser": "^1.1.2",
-    "gulp-static-i18n": "0.1.0"
+    "gulp-static-i18n": "1.0.0"
   },
   "devDependencies": {
     "i18n-abide": "0.0.17",
