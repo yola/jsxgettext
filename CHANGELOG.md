@@ -2,6 +2,11 @@
 
 [Yola Changes](https://github.com/yola/jsxgettext/releases)
 
+
+## 1.0.1-yola1
+
+* Bump up `gulp-static-i18n` to 1.0.0
+
 ## 1.0.0-yola1
 
 * Remove `jade` from library
